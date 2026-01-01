@@ -48,10 +48,10 @@
 
 ### Current Academic Projects
 
-- **[Small Office Network Blueprint](https://github.com/YOUR_USERNAME/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer (CST8182)
-- **[Windows Admin Toolkit](https://github.com/YOUR_USERNAME/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption (CST8202)
-- **[Linux Automation Suite](https://github.com/YOUR_USERNAME/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management (CST8207)
-- **[Linux Process Tracker](https://github.com/YOUR_USERNAME/linux-process-tracker)** — Real-time system monitoring dashboard tracking CPU, memory, disk I/O, and network performance (CST8207)
+- **[Small Office Network Blueprint](https://github.com/RedjiJB/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer (CST8182)
+- **[Windows Admin Toolkit](https://github.com/RedjiJB/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption (CST8202)
+- **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management (CST8207)
+- **[Linux Process Tracker](https://github.com/RedjiJB/linux-process-tracker)** — Real-time system monitoring dashboard tracking CPU, memory, disk I/O, and network performance (CST8207)
 
 > **Academic rigor meets real-world application:** Every project includes comprehensive documentation, error handling, and production-ready features.
 
@@ -84,14 +84,14 @@
 
 ### Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RedjiJB&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr/>
 
 <details>
   <summary>My Journey (click to expand)</summary>
 
-  ### From Security Operations to IT Infrastructure
+  ### From Security Operations to Cyber Security
 
   **Current Focus:**
   - **Academic:** Computer Systems Technician - Networking program at Algonquin College (Co-op)
@@ -101,19 +101,22 @@
   
   **Technical Skills in Development:**
   - **Networking:** OSI/TCP-IP, IPv4 subnetting, VLSM, LAN design, Cisco Packet Tracer
-  - **Windows:** Windows 10/11, GPO, NTFS permissions, PowerShell automation, Active Directory (upcoming)
+  - **Windows:** Windows 10/11, GPO, NTFS permissions, PowerShell automation, Active Directory
   - **Linux:** Bash scripting, user/group management, file permissions, system administration, cron jobs
   - **Programming:** Python fundamentals (CST8324), data structures, error handling
   
   **Planned Certifications:**
-  - CompTIA Security+ (2025)
-  - Cisco CyberOps Associate (2025)
-  - CySA+, PCNSE, NSE 4-6 (2026-27)
-  - CASP+, CISSP, CCSP (2028-29)
+| Year     | Q1                                                      | Q2                                                                     | Q3                                                      | Q4                                                                                                     |
+| -------- | ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **2026** | **Cisco Certified Network Associate (CCNA 200-301)**    | **CompTIA A+ (Core 1: 220-1101)**                                      | **CompTIA A+ (Core 2: 220-1102)**                       | **CompTIA Security+ (SY0-701)**                                                                        |
+| **2027** | **CompTIA Network+ (N10-009)**                          | **Cisco Certified CyberOps Associate (CBROPS 200-201)**                | **CompTIA Cybersecurity Analyst (CySA+ CS0-003)**       | **Fortinet Certified Professional / Solution Specialist (Fortinet NSE Program successor)**             |
+| **2028** | **CompTIA SecurityX (CAS-005) — formerly CASP+**        | **(ISC)² Certified Information Systems Security Professional (CISSP)** | **(ISC)² Certified Cloud Security Professional (CCSP)** | **GIAC (e.g., GCIH / GCIA / GCFE) or Offensive Security Certified Professional (OSCP)**                |
+| **2029** | **ISACA Certified Information Security Manager (CISM)** | **ISACA Certified in Risk and Information Systems Control (CRISC)**    | **ISACA Certified Information Systems Auditor (CISA)**  | **Certified Enterprise Defender (GCED)** |
+
   
   **Languages:**
-  - **Spoken:** Haitian Creole (Native), English (Fluent), French (Fluent)
-  - **Technical:** Python (Beginner), Bash (Intermediate), PowerShell (Beginner), SQL (Learning)
+  - **Spoken:** Haitian Creole, English, French
+  - **Technical:** Python, Bash, PowerShell, SQL
   
   **What Sets Me Apart:**
   I bring real-world security operations experience to every technical project. My background operating enterprise-grade security systems gives me practical insight into infrastructure requirements, incident response workflows, and the critical importance of reliability and documentation.
@@ -123,20 +126,19 @@
   - Windows Server administration and Active Directory
   - Linux server configuration and hardening
   - Python automation and network programming
-  - Security information and event management (SIEM)
+  - Security information and event management
   
-  **Future Projects (Planned):**
+  **Planned Projects:**
   - **Mini-Enterprise AD Lab:** Multi-DC domain with Group Policy and PowerShell automation
   - **Packet Tracer Campus Network:** Enterprise LAN with VLANs, STP, and WPA3 wireless
   - **Blue-Team Home SOC:** pfSense firewall + Suricata IDS feeding Elastic SIEM
-  - **Cloud VPC & Site-to-Site VPN:** AWS infrastructure with Terraform and IPSec tunnels
 
 </details>
 
 ---
 
 <p align="center">
-  <i>Seeking co-op opportunities in IT infrastructure, network administration, or cybersecurity operations</i>
+  <i>Seeking internship opportunities in IT, network administration, or cybersecurity operations</i>
 </p>
 
 <p align="center">
