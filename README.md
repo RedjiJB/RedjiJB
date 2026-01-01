@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  Co-op student combining academic IT fundamentals with hands-on security systems experience — building network infrastructure, automation tools, and security solutions from the ground up.
+  Canadian student with experience building automation tools, homelabs, and hands-on security operations.
 </p>
 
 <p align="center">
   <!-- Custom-icon-badges: using DenverCoder1's custom icon badges -->
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=236ad3&label=Followers&logo=people&logoColor=white"/>
+  <a href="https://github.com/RedjiJB?tab=followers">
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/RedjiJB?color=236ad3&label=Followers&logo=people&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/RedjiJB?tab=repositories">
     <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&label=Stars&logo=star&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/RedjiJB">
     <img alt="profile views" src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-Open-blue?logo=eye&logoColor=white"/>
   </a>
   <a href="mailto:jean0319@algonquinlive.com">
