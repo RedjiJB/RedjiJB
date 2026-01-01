@@ -14,7 +14,7 @@
     <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/RedjiJB?color=236ad3&label=Followers&logo=people&logoColor=white"/>
   </a>
   <a href="https://github.com/RedjiJB?tab=repositories">
-    <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&label=Stars&logo=star&logoColor=white"/>
+    <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/RedjiJB?color=55960c&label=Stars&logo=star&logoColor=white"/>
   </a>
   <a href="https://github.com/RedjiJB">
     <img alt="profile views" src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-Open-blue?logo=eye&logoColor=white"/>
@@ -38,61 +38,42 @@
   <img alt="Cisco" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" />
   <!-- Development -->
   <img alt="Python" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Git" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <!-- Planned -->
-  <img alt="Docker" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Ansible" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 </p>
 
 <hr/>
 
 ### Current Academic Projects
 
-- **[Small Office Network Blueprint](https://github.com/RedjiJB/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer (CST8182)
-- **[Windows Admin Toolkit](https://github.com/RedjiJB/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption (CST8202)
-- **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management (CST8207)
-- **[Linux Process Tracker](https://github.com/RedjiJB/linux-process-tracker)** — Real-time system monitoring dashboard tracking CPU, memory, disk I/O, and network performance (CST8207)
+- **[Small Office Network Blueprint](https://github.com/RedjiJB/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer
+- **[Windows Admin Toolkit](https://github.com/RedjiJB/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption
+- **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management
+- **[Linux Process Tracker](https://github.com/RedjiJB/linux-process-tracker)** — Real-time system monitoring dashboard tracking CPU, memory, disk I/O, and network performance
 
 > **Academic rigor meets real-world application:** Every project includes comprehensive documentation, error handling, and production-ready features.
 
 <hr/>
 
-### In Progress (Winter 2026)
-
-- **Subnet Designer & Visualizer** — Python tool for VLSM calculations and network topology diagrams
-- **Windows 11 Secure Build** — Hardened VM with GPO configuration and PowerShell deployment automation
-- **Linux Essentials Lab Book** — GitHub repo of hands-on Bash labs for system administration
-- **Number System Converter** — Interactive CLI demonstrating binary/hex/decimal conversion and Boolean logic
-
-<hr/>
-
-
 <details>
   <summary>My Journey (click to expand)</summary>
 
-  ### From Security Operations to Cyber Security
-
   **Current Focus:**
-  - **Academic:** Computer Systems Technician - Networking program at Algonquin College (Co-op)
-  - **Coursework:** CST8182 (Networking Fundamentals), CST8202 (Windows Desktop Support), CST8207 (GNU/Linux System Support)
-  - **Professional:** Security Officer with extensive experience operating enterprise security systems
-  - **Systems Experience:** Avigilon CCTV, HID Global access control, VingCard Visionline RFID, SAFR facial recognition
+  - **Academic:** Computer Systems Technician - Networking program at Algonquin College
+  - **Coursework:** Networking Fundamentals, Windows Desktop Support, Linux System Support
   
-  **Technical Skills in Development:**
+  **Skills:**
   - **Networking:** OSI/TCP-IP, IPv4 subnetting, VLSM, LAN design, Cisco Packet Tracer
   - **Windows:** Windows 10/11, GPO, NTFS permissions, PowerShell automation, Active Directory
   - **Linux:** Bash scripting, user/group management, file permissions, system administration, cron jobs
-  - **Programming:** Python fundamentals (CST8324), data structures, error handling
+  - **Programming:** Python fundamentals, data structures, error handling
   
   **Planned Certifications:**
-| Year     | Q1                                                      | Q2                                                                     | Q3                                                      | Q4                                                                                                     |
-| -------- | ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **2026** | **Cisco Certified Network Associate (CCNA 200-301)**    | **CompTIA A+ (Core 1: 220-1101)**                                      | **CompTIA A+ (Core 2: 220-1102)**                       | **CompTIA Security+ (SY0-701)**                                                                        |
-| **2027** | **CompTIA Network+ (N10-009)**                          | **Cisco Certified CyberOps Associate (CBROPS 200-201)**                | **CompTIA Cybersecurity Analyst (CySA+ CS0-003)**       | **Fortinet Certified Professional / Solution Specialist (Fortinet NSE Program successor)**             |
-| **2028** | **CompTIA SecurityX (CAS-005) — formerly CASP+**        | **(ISC)² Certified Information Systems Security Professional (CISSP)** | **(ISC)² Certified Cloud Security Professional (CCSP)** | **GIAC (e.g., GCIH / GCIA / GCFE) or Offensive Security Certified Professional (OSCP)**                |
-| **2029** | **ISACA Certified Information Security Manager (CISM)** | **ISACA Certified in Risk and Information Systems Control (CRISC)**    | **ISACA Certified Information Systems Auditor (CISA)**  | **Certified Enterprise Defender (GCED)** |
+  | Year     | Q1                                                   | Q2                                    | Q3                                    | Q4                                                                                     |
+  | -------- | ---------------------------------------------------- | ------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------- |
+  | **2026** | **Cisco Certified Network Associate (CCNA 200-301)** | **CompTIA A+ (Core 1: 220-1101)**     | **CompTIA A+ (Core 2: 220-1102)**     | **CompTIA Security+ (SY0-701)**                                                        |
+  | **2027** | **CompTIA Network+ (N10-009)**                       | **Cisco Certified CyberOps Associate** | **CompTIA Cybersecurity Analyst (CySA+)** | **Fortinet Certified Professional / Solution Specialist (Fortinet NSE Program successor)** |
+  | **2028** | **CompTIA SecurityX (CAS-005) — formerly CASP+**     | **(ISC)² Certified Information Systems Security Professional (CISSP)** | **(ISC)² Certified Cloud Security Professional (CCSP)** | **GIAC (e.g., GCIH / GCIA / GCFE) or Offensive Security Certified Professional (OSCP)** |
+  | **2029** | **ISACA Certified Information Security Manager (CISM)** | **ISACA Certified in Risk and Information Systems Control (CRISC)** | **ISACA Certified Information Systems Auditor (CISA)** | **GIAC Certified Enterprise Defender (GCED)** |
 
-  
   **Languages:**
   - **Spoken:** Haitian Creole, English, French
   - **Technical:** Python, Bash, PowerShell, SQL
