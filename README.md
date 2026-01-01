@@ -66,22 +66,6 @@
 
 <hr/>
 
-### GitHub Stats
-
-<p align="left">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" />
-</p>
-
-<p align="left">
-  <img alt="streak" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=gruvbox" />
-</p>
-
-<p align="left">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" />
-</p>
-
-<hr/>
-
 ### Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedjiJB&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
