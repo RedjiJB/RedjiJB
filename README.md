@@ -26,7 +26,7 @@
 
 <hr/>
 
-### 🧰 Technical Stack
+### Technical Stack
 
 <p align="left">
   <!-- Core Systems -->
@@ -46,7 +46,7 @@
 
 <hr/>
 
-### 🚀 Current Academic Projects
+### Current Academic Projects
 
 - **[Small Office Network Blueprint](https://github.com/YOUR_USERNAME/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer (CST8182)
 - **[Windows Admin Toolkit](https://github.com/YOUR_USERNAME/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption (CST8202)
@@ -57,7 +57,7 @@
 
 <hr/>
 
-### 📚 In Progress (Winter 2026)
+### In Progress (Winter 2026)
 
 - **Subnet Designer & Visualizer** — Python tool for VLSM calculations and network topology diagrams
 - **Windows 11 Secure Build** — Hardened VM with GPO configuration and PowerShell deployment automation
@@ -66,7 +66,7 @@
 
 <hr/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" />
@@ -82,14 +82,14 @@
 
 <hr/>
 
-### 🏆 Achievements
+### Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr/>
 
 <details>
-  <summary>📖 My Journey (click to expand)</summary>
+  <summary>My Journey (click to expand)</summary>
 
   ### From Security Operations to IT Infrastructure
 
@@ -136,9 +136,9 @@
 ---
 
 <p align="center">
-  <i>🎯 Seeking co-op opportunities in IT infrastructure, network administration, or cybersecurity operations</i>
+  <i>Seeking co-op opportunities in IT infrastructure, network administration, or cybersecurity operations</i>
 </p>
 
 <p align="center">
-  📧 jean0319@algonquinlive.com | 📱 +1 (819) 319-6405 | 📍 Ottawa, Ontario
+  jean0319@algonquinlive.com | Ottawa, Ontario
 </p>
