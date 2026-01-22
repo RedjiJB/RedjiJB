@@ -42,14 +42,12 @@
 
 <hr/>
 
-### Current Academic Projects
+### Current Projects
 
-- **[Small Office Network Blueprint](https://github.com/RedjiJB/small-office-network)** — Complete network design with VLSM addressing, security policies, and cost analysis using Cisco Packet Tracer
+- **[Portfolio](https://redjijb.github.io/cyber-portfolio/#/))** — Modern portfolio website showcasing 
 - **[Windows Admin Toolkit](https://github.com/RedjiJB/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption
 - **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management
-- **[Linux Process Tracker](https://github.com/RedjiJB/linux-process-tracker)** — Real-time system monitoring dashboard tracking CPU, memory, disk I/O, and network performance
-
-> **Academic rigor meets real-world application:** Every project includes comprehensive documentation, error handling, and production-ready features.
+- **[TERMGAME](https://github.com/RedjiJB/TERMGAME)** — A terminal-based training platform for mastering Linux, Cisco IOS, and PowerShell through interactive missions.
 
 <hr/>
 
