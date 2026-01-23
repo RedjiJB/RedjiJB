@@ -45,7 +45,7 @@
 ### Current Projects
 
 - **[Portfolio](https://redjijb.github.io/cyber-portfolio/#/))** — Modern portfolio website showcasing 
-- **[Windows Admin Toolkit](https://github.com/RedjiJB/windows-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption
+- **[Windows Admin Toolkit](https://github.com/RedjiJB/window-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption
 - **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management
 - **[TERMGAME](https://github.com/RedjiJB/TERMGAME)** — A terminal-based training platform for mastering Linux, Cisco IOS, and PowerShell through interactive missions.
 
