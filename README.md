@@ -14,13 +14,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Canadian student with hands-on experience building **automation tools**, **homelabs**, and **security operations** infrastructure. Passionate about networking, systems administration, and cybersecurity. Always learning, always building.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Languages & Databases
 <div align="center">
@@ -48,16 +48,16 @@ Canadian student with hands-on experience building **automation tools**, **homel
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![RedjiJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedjiJB&theme=matrix&show_icons=true&hide_border=true)
 
 ---
 
-## 🔗 Connect
+## Connect
 
-- 📧 Email: [jredji429@gmail.com](mailto:jredji429@gmail.com)
-- 🔗 GitHub: [@RedjiJB](https://github.com/RedjiJB)
+- Email: [jredji429@gmail.com](mailto:jredji429@gmail.com)
+- GitHub: [@RedjiJB](https://github.com/RedjiJB)
 
 ---
 
