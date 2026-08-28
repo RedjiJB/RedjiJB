@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg" alt="GitHub Activity Heatmap" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjiJB&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
