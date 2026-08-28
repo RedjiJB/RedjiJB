@@ -1,114 +1,70 @@
-<h1 align="center">Redji Jean Baptiste</h1>
+<a href="https://github.com/RedjiJB">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/light.svg?v=1">
+    <img alt="Redji Jean Baptiste - Aspiring Network Engineer" src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/dark.svg?v=1" width="100%">
+  </picture>
+</a>
+
+<br>
 
 <p align="center">
-  <code>Computer Systems Technician • Networking • Security Operations</code>
+  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg" alt="GitHub Activity Heatmap" width="100%" />
 </p>
-
-<p align="center">
-  Canadian student with experience building automation tools, homelabs, and hands-on security operations.
-</p>
-
-<p align="center">
-  <!-- Custom-icon-badges: using DenverCoder1's custom icon badges -->
-  <a href="https://github.com/RedjiJB?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/RedjiJB?color=236ad3&label=Followers&logo=people&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RedjiJB?tab=repositories">
-    <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/RedjiJB?color=55960c&label=Stars&logo=star&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RedjiJB">
-    <img alt="profile views" src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-Open-blue?logo=eye&logoColor=white"/>
-  </a>
-  <a href="mailto:jean0319@algonquinlive.com">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-Contact-red?logo=mail&logoColor=white"/>
-  </a>
-</p>
-
-<hr/>
-
-### Technical Stack
-
-**Languages & Web Development**
-<p align="left">
-  <img alt="Python" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-  <img alt="JavaScript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-  <img alt="Next.js" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;
-  <img alt="React" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-  <img alt="HTML5" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
-  <img alt="CSS3" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
-  <img alt="SQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
-
-**Systems, Automation & Cloud**
-<p align="left">
-  <img alt="Bash" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;
-  <img alt="PowerShell" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /> &nbsp;
-  <img alt="Linux" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;
-  <img alt="Windows" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" /> &nbsp;
-  <img alt="Cisco" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" /> &nbsp;
-  <img alt="Azure" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> &nbsp;
-  <img alt="Docker" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</p>
-
-<hr/>
-
-### Current Projects
-
-- **[Portfolio](https://redjijb.github.io/cyber-portfolio/#/)** — Modern portfolio website showcasing 
-- **[Windows Admin Toolkit](https://github.com/RedjiJB/window-admin-toolkit)** — PowerShell automation suite for user management, backup systems, and BitLocker encryption
-- **[Linux Automation Suite](https://github.com/RedjiJB/linux-automation-suite)** — Bash scripts for automated backups, log analysis, and cron job management
-- **[TERMGAME](https://github.com/RedjiJB/TERMGAME)** — A terminal-based training platform for mastering Linux, Cisco IOS, and PowerShell through interactive missions.
-
-<hr/>
-
-<details>
-  <summary>My Journey (click to expand)</summary>
-
-  **Current Focus:**
-  - **Academic:** Computer Systems Technician - Networking program at Algonquin College
-  - **Coursework:** Networking Fundamentals, Windows Desktop Support, Linux System Support
-  
-  **Skills:**
-  - **Networking:** OSI/TCP-IP, IPv4 subnetting, VLSM, LAN design, Cisco Packet Tracer
-  - **Windows:** Windows 10/11, GPO, NTFS permissions, PowerShell automation, Active Directory
-  - **Linux:** Bash scripting, user/group management, file permissions, system administration, cron jobs
-  - **Programming:** Python fundamentals, data structures, error handling
-  
-  **Planned Certifications:**
-  | Year     | Q1                                                   | Q2                                    | Q3                                    | Q4                                                                                     |
-  | -------- | ---------------------------------------------------- | ------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------- |
-  | **2026** | **Cisco Certified Network Associate (CCNA 200-301)** | **CompTIA A+ (Core 1: 220-1101)**     | **CompTIA A+ (Core 2: 220-1102)**     | **CompTIA Security+ (SY0-701)**                                                        |
-  | **2027** | **CompTIA Network+ (N10-009)**                       | **Cisco Certified CyberOps Associate** | **CompTIA Cybersecurity Analyst (CySA+)** | **Fortinet Certified Professional / Solution Specialist (Fortinet NSE Program successor)** |
-  | **2028** | **CompTIA SecurityX (CAS-005) — formerly CASP+**     | **(ISC)² Certified Information Systems Security Professional (CISSP)** | **(ISC)² Certified Cloud Security Professional (CCSP)** | **GIAC (e.g., GCIH / GCIA / GCFE) or Offensive Security Certified Professional (OSCP)** |
-  | **2029** | **ISACA Certified Information Security Manager (CISM)** | **ISACA Certified in Risk and Information Systems Control (CRISC)** | **ISACA Certified Information Systems Auditor (CISA)** | **GIAC Certified Enterprise Defender (GCED)** |
-
-  **Languages:**
-  - **Spoken:** Haitian Creole, English, French
-  - **Technical:** Python, Bash, PowerShell, SQL
-  
-  **What Sets Me Apart:**
-  I bring real-world security operations experience to every technical project. My background operating enterprise-grade security systems gives me practical insight into infrastructure requirements, incident response workflows, and the critical importance of reliability and documentation.
-
-  **Current Learning Path:**
-  - Network design and implementation fundamentals
-  - Windows Server administration and Active Directory
-  - Linux server configuration and hardening
-  - Python automation and network programming
-  - Security information and event management
-  
-  **Planned Projects:**
-  - **Mini-Enterprise AD Lab:** Multi-DC domain with Group Policy and PowerShell automation
-  - **Packet Tracer Campus Network:** Enterprise LAN with VLANs, STP, and WPA3 wireless
-  - **Blue-Team Home SOC:** pfSense firewall + Suricata IDS feeding Elastic SIEM
-
-</details>
 
 ---
 
-<p align="center">
-  <i>Seeking internship opportunities in IT, network administration, or cybersecurity operations</i>
-</p>
+## 👨‍💻 About Me
 
-<p align="center">
-  jean0319@algonquinlive.com | Ottawa, Ontario
-</p>
+Canadian student with hands-on experience building **automation tools**, **homelabs**, and **security operations** infrastructure. Passionate about networking, systems administration, and cybersecurity. Always learning, always building.
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages & Web Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### Systems, Automation & Cloud
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</div>
+
+### Networking & Security
+<div align="center">
+  <img src="https://img.shields.io/badge/TCP/IP-00A651?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![RedjiJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedjiJB&theme=matrix&show_icons=true&hide_border=true)
+
+---
+
+## 🔗 Connect
+
+- 📧 Email: [jredji429@gmail.com](mailto:jredji429@gmail.com)
+- 🔗 GitHub: [@RedjiJB](https://github.com/RedjiJB)
+
+---
+
+<div align="center">
+  <i>Seeking internship opportunities in IT, network administration, or cybersecurity operations</i>
+</div>

@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+
+  <!-- Matrix rain effect - subtle green lines -->
+  <defs>
+    <linearGradient id="matrixGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff41;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#00ff41;stop-opacity:0" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background pattern -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#00ff41" stroke-width="1" opacity="0.1"/>
+  <line x1="0" y1="150" x2="1200" y2="150" stroke="#00ff41" stroke-width="1" opacity="0.05"/>
+  <line x1="0" y1="299" x2="1200" y2="299" stroke="#00ff41" stroke-width="1" opacity="0.1"/>
+
+  <!-- Corner brackets -->
+  <path d="M 30 30 L 30 80 L 80 80" stroke="#00ff41" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 1170 30 L 1170 80 L 1120 80" stroke="#00ff41" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 30 270 L 30 220 L 80 220" stroke="#00ff41" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 1170 270 L 1170 220 L 1120 220" stroke="#00ff41" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Main text content -->
+  <text x="600" y="110" font-size="64" font-weight="bold" text-anchor="middle" fill="#00ff41" font-family="monospace" filter="url(#glow)">
+    Redji Jean Baptiste
+  </text>
+
+  <!-- Subtitle with accent -->
+  <text x="600" y="170" font-size="28" text-anchor="middle" fill="#00b300" font-family="monospace" letter-spacing="2">
+    &gt; aspiring network engineer
+  </text>
+
+  <!-- Code-like accent line -->
+  <line x1="200" y1="200" x2="1000" y2="200" stroke="#00ff41" stroke-width="1" opacity="0.3"/>
+  <text x="120" y="225" font-size="16" fill="#00ff41" font-family="monospace" opacity="0.6">
+    [NETWORKS] [SECURITY] [AUTOMATION] [HOMELABS]
+  </text>
+
+  <!-- Subtle corner indicators -->
+  <circle cx="50" cy="50" r="3" fill="#00ff41" opacity="0.5"/>
+  <circle cx="1150" cy="50" r="3" fill="#00ff41" opacity="0.5"/>
+  <circle cx="50" cy="250" r="3" fill="#00ff41" opacity="0.5"/>
+  <circle cx="1150" cy="250" r="3" fill="#00ff41" opacity="0.5"/>
+</svg>
