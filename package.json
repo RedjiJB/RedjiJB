@@ -1,0 +1,9 @@
+{
+  "name": "redjijb",
+  "version": "1.0.0",
+  "description": "GitHub profile README assets",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
