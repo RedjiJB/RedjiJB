@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg?v=1789681121545" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg?v=1789765777632" alt="GitHub Jet Heatmap" width="100%" />
 </p>
 
 ---
