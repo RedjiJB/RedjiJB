@@ -436,7 +436,7 @@
   <rect x="896" y="196" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-12</title></rect>
   <rect x="914" y="88" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-13</title></rect>
   <rect x="914" y="106" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-14</title></rect>
-  <rect x="914" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>3 power units on 2026-09-15</title></rect>
+  <rect x="914" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>2 power units on 2026-09-15</title></rect>
   <rect x="914" y="142" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-16</title></rect>
   <rect x="914" y="160" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-17</title></rect>
   <rect x="914" y="178" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-09-18</title></rect>
@@ -495,9 +495,9 @@
   <rect x="1040" y="196" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-11-07</title></rect>
   <rect x="1058" y="88" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-11-08</title></rect>
   <rect x="1058" y="106" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on 2026-11-09</title></rect>
-  <rect x="1058" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>1 power units on 2026-11-10</title></rect>
-  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on untracked</title></rect>
-  <rect x="1058" y="160" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on untracked</title></rect>
+  <rect x="1058" y="124" width="14" height="14" rx="2.5" fill="#9be9a8" stroke="#00b300" stroke-width="0.35"><title>2 power units on 2026-11-10</title></rect>
+  <rect x="1058" y="142" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on 2026-11-11</title></rect>
+  <rect x="1058" y="160" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on 2026-11-12</title></rect>
   <rect x="1058" y="178" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on untracked</title></rect>
   <rect x="1058" y="196" width="14" height="14" rx="2.5" fill="#0a140a" stroke="#0f2a0f" stroke-width="0.75"><title>0 power units on untracked</title></rect>
 </g>
