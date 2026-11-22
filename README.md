@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg?v=1795303926398" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/RedjiJB/RedjiJB/main/github-jet.svg?v=1795391110016" alt="GitHub Jet Heatmap" width="100%" />
 </p>
 
 ---
